@@ -1,0 +1,11 @@
+A mobilidade urbana é um dos maiores desafios enfrentados por pessoas com deficiência visual. Calçadas irregulares, obstáculos suspensos e a falta de sinalização tátil tornam o deslocamento diário arriscado.
+
+Nos últimos anos, a visão computacional abriu novas possibilidades para a tecnologia assistiva. Câmeras pequenas e redes neurais leves, como a MobileNet, permitem reconhecer cenas e obstáculos em tempo real, mesmo em dispositivos com pouca capacidade de processamento.
+
+Um sistema assistivo pode, por exemplo, identificar se o usuário está em um corredor, em uma sala de aula ou na rua, e avisá-lo por áudio. Esse tipo de informação ajuda a pessoa a se orientar em ambientes desconhecidos.
+
+Entretanto, a maioria dos conjuntos de dados públicos foi coletada em outros países e não representa bem os ambientes brasileiros. Por isso, a criação de um conjunto de dados próprio, com imagens locais, é importante para avaliar o desempenho real das redes neurais.
+
+O tempo de resposta também é decisivo. Um aviso que chega tarde demais não evita a colisão, então os modelos precisam ser rápidos além de precisos.
+
+Por fim, qualquer avaliação com usuários cegos deve passar pelo comitê de ética, garantindo a segurança e o consentimento dos participantes.
